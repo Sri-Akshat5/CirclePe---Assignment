@@ -2,6 +2,9 @@
 
 This project is developed as part of the CirclePe assignment. It includes a responsive Next.js application styled with Tailwind CSS and enhanced with animations using Framer Motion. The application is built with TypeScript and incorporates custom components and hooks for responsiveness. Icons and design were provided by CirclePe through Figma.
 
+## Project Link
+https://sri-akshat5.github.io/CirclePe---Assignment/
+
 ## Table of Contents
 
 - [Features](#features)
@@ -34,7 +37,7 @@ Follow these steps to download and set up the project locally.
 1. Clone the repository from GitHub:
 
     ```bash
-    git clone <your-github-repo-link>
+    git clone <https://github.com/Sri-Akshat5/CirclePe---Assignment.git>
     ```
 
 2. Navigate to the project directory:
@@ -73,7 +76,4 @@ To run the Next.js application locally:
 - **DesktopScroller**: Manages scrolling effects on desktop screens.
 - **Main**: The main component that integrates all the parts.
 - **Custom Hook for Responsiveness**: A hook that manages responsive behavior across different screen sizes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+.
