@@ -37,7 +37,7 @@ Follow these steps to download and set up the project locally.
 1. Clone the repository from GitHub:
 
     ```bash
-    git clone <https://github.com/Sri-Akshat5/CirclePe---Assignment.git>
+    git clone https://github.com/Sri-Akshat5/CirclePe---Assignment.git
     ```
 
 2. Navigate to the project directory:
