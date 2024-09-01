@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  body {
+    @apply md:text-2xl text-sm bg-background text-paragraph;
+  }
+
+  .blue-radial-gradient {
+
+  } 
+   .h1 {
+    @apply md:text-[4rem] text-5xl text-heading font-medium;
+   }
+   
+   .last-word {
+    @apply text-paragraph my-3;
+   }
+
+   .active {
+    @apply text-active;
+   }
+}
